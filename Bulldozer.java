@@ -6,6 +6,6 @@ public class Bulldozer extends Machine {
 
     @Override
     public void stopWork() {
-        System.out.println("The truck has stopped!");
+        System.out.println("The bulldozer has stopped!");
     }
 }
